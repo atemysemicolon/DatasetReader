@@ -22,3 +22,6 @@ LIBS += -L/usr/lib/x86_64-linux-gnu -lboost_thread -lboost_system
 
 SOURCES += \
     main.cpp
+
+HEADERS += \
+    datasetReader.h
